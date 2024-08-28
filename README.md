@@ -1,18 +1,15 @@
-# Panda
-`variants: [Dark, Nebula, Light]`
+# Koala
+`variants: [Polis, Dark]`
 
-based from "[Panda Syntax](https://github.com/PandaTheme/atom-panda-syntax)" and "[Nebula](https://github.com/eating-coleslaw/vscode-nebula-theme)"
+based from "[Panda Theme](https://github.com/bIaqat/panda-theme-zed)"
 
 ## Preview
-### Panda
+### Polis
 <img src="assets/panda.png" width="670">
 
-### Panda Nebula
+### Dark
 <img src="assets/panda-nebula.png" width="670">
-
-### Panda Light
-<img src="assets/panda-light.png" width="670">
 
 ## Installation
 1. Copy panda.json to ~/.config/zed/themes/
-2. Open Zed and navigate to Settings -> Theme -> Panda
+2. Open Zed and navigate to Settings -> Theme -> Koala
